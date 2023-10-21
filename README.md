@@ -3,7 +3,8 @@
 Christopher King
 
 •	What was the problem you were solving in the projects for this course?
-    o	Throughout this course we learned about various data structures along with their benefits and disadvantages. For our final project we had to create an advising assistance software. This program allows a user to load a set of courses and prerequisites for current courses available at ABCU, print the entire course list, and print a specific course along with the prerequisites required for that course. 
+
+o	Throughout this course we learned about various data structures along with their benefits and disadvantages. For our final project we had to create an advising assistance software. This program allows a user to load a set of courses and prerequisites for current courses available at ABCU, print the entire course list, and print a specific course along with the prerequisites required for that course. 
 
 •	How did you approach the problem? Consider why data structures are important to understand.
     o	Within this course we did an analysis of different data structures and this was the primary source I used to determine which structure I would use for my project. The structure that I settled on was a BST structure. The main reason I decided on BST was for the quick and easy insertion and deletion along with the search method. 
